@@ -40,14 +40,14 @@
   <p align="center">
     This software is designed to manage the sales operations for a jewelry business with a single store that includes multiple counters.
     <br />
-      <a href="https://github.com/ngckinhluan/Jewelry-Sale-System-At-The-Store"><strong>Explore the docs »</strong></a>
+      <a href="https://github.com/ngckinhluan/JSSAT"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-     <a href="https://github.com/ngckinhluan/Jewelry-Sale-System-At-The-Store">View Demo</a>
+     <a href="https://github.com/ngckinhluan/JSSAT">View Demo</a>
     ·
-    <a href="https://github.com/ngckinhluan/Jewelry-Sale-System-At-The-Store/issues">Report Bug</a>
+    <a href="https://github.com/ngckinhluan/JSSAT/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ngckinhluan/Jewelry-Sale-System-At-The-Store/issues">Request Feature</a>
+    <a href="https://github.com/ngckinhluan/JSSAT/issues">Request Feature</a>
   </p>
 </div>
 
@@ -175,26 +175,24 @@ This is an example of how to list things you need to use the software and how to
   ```
 
 ### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/ngckinhluan/Jewelry-Sale-System-At-The-Store.git
    ```
-3. Frontend Setup
+2. Frontend Setup
 - Navigate to the front-end directory
   ```
   cd FE
   ```
-4. Install NPM packages
+3. Install NPM packages
    ```sh
    npm install
    ```
-5. To start the development server and run the project locally, use the following command:
+4. To start the development server and run the project locally, use the following command:
    ```
    npm run dev
    ```
-6. Backend Setup
+5. Backend Setup
 - Navigate to the backend directory
   ```
   cd BE
@@ -203,7 +201,7 @@ This is an example of how to list things you need to use the software and how to
 - Change the ConnectionString in the configuration file to match your database setup.
 - Migrate the database to your local datbase machine
 - Run the project
-7. Now you can start using the project.
+6. Now you can start using the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -246,7 +244,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Tran Ngoc Kinh Luan - [LinkedIn](https://www.linkedin.com/in/luantnk0729/) - luantnk2907@gmail.com
 
-Project Link: [https://github.com/ngckinhluan/Jewelry-Sale-System-At-The-Store](https://github.com/ngckinhluan/Jewelry-Sale-System-At-The-Store)
+Project Link: [https://github.com/ngckinhluan/JSSAT](https://github.com/ngckinhluan/JSSAT)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -259,15 +257,15 @@ Project Link: [https://github.com/ngckinhluan/Jewelry-Sale-System-At-The-Store](
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/ngckinhluan/Jewelry-Sale-System-At-The-Store.svg?style=for-the-badge
-[contributors-url]: https://github.com/ngckinhluan/Jewelry-Sale-System-At-The-Store/graphs/contributors
+[contributors-url]: https://github.com/ngckinhluan/JSSAT/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/ngckinhluan/Jewelry-Sale-System-At-The-Store.svg?style=for-the-badge
-[forks-url]: https://github.com/ngckinhluan/Jewelry-Sale-System-At-The-Store/network/members
+[forks-url]: https://github.com/ngckinhluan/JSSAT/network/members
 [stars-shield]: https://img.shields.io/github/stars/ngckinhluan/Jewelry-Sale-System-At-The-Store.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/ngckinhluan/stargazers
+[stars-url]: https://github.com/ngckinhluan/JSSAT/stargazers
 [issues-shield]: https://img.shields.io/github/issues/ngckinhluan/Jewelry-Sale-System-At-The-Store.svg?style=for-the-badge
 [issues-url]: https://github.com/ngckinhluan/repo_name/issues
 [license-shield]: https://img.shields.io/github/license/ngckinhluan/Jewelry-Sale-System-At-The-Store.svg?style=for-the-badge
-[license-url]: https://github.com/ngckinhluan/Jewelry-Sale-System-At-The-Store/blob/master/LICENSE.txt
+[license-url]: https://github.com/ngckinhluan/Jewelry-Sale-System-At-The-Store/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/luantran0729
 [api-screenshot]: images/api-be.png
