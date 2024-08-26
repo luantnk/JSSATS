@@ -265,7 +265,7 @@ Project Link: [https://github.com/ngckinhluan/JSSAT](https://github.com/ngckinhl
 [issues-shield]: https://img.shields.io/github/issues/ngckinhluan/Jewelry-Sale-System-At-The-Store.svg?style=for-the-badge
 [issues-url]: https://github.com/ngckinhluan/repo_name/issues
 [license-shield]: https://img.shields.io/github/license/ngckinhluan/Jewelry-Sale-System-At-The-Store.svg?style=for-the-badge
-[license-url]: https://github.com/ngckinhluan/Jewelry-Sale-System-At-The-Store/blob/main/LICENSE.txt
+[license-url]: https://github.com/ngckinhluan/JSSAT/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/luantran0729
 [api-screenshot]: images/api-be.png
