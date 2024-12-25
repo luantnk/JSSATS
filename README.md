@@ -128,6 +128,10 @@ The front-end of the application is designed for staff and managers to manage je
 
 ![front-end](./images/screencapture-localhost-3030-jewellery-2024-08-12-09_19_27.png)
 
+- This app also use Jenkis to facilitate the CI/CD pipeline.
+![jenkins](./images/jssat.png)
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -273,6 +277,7 @@ Project Link: [https://github.com/ngckinhluan/JSSAT](https://github.com/ngckinhl
 [product-screenshot]: images/screenshot.png
 [product-screenshot]: images/screenshot.png
 [product-screenshot]: images/screenshot.png
+[jenkins]: images/jssat.png
 
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
